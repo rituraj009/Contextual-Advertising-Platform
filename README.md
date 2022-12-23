@@ -1,6 +1,7 @@
 # Contextual-Advertising-Platform
+- text in red
 Django Project 2
-
+- text in red
 ## Description
 1) Contextual advertising is a technology that finds our relevant ads from a given blog article to maximise a blog or websites revenue.
 2) Contextual advertising is the reason why you see an ad for nike shoes on a fitness related article.
