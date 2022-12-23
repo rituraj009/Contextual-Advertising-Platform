@@ -50,6 +50,18 @@ Django Project 2
 ## SCREENSHOTS
 
 1) Homepage  
+![image](https://user-images.githubusercontent.com/102078863/209398280-f8fb4bbf-5784-4476-9b98-50abebaec2e4.png)
+
+
+2) Providing a link for demo and clicking on sumbit.
+![image](https://user-images.githubusercontent.com/102078863/209398332-b82224ca-17e8-4c9b-852f-280a8222cd61.png)
+
+
+3) Relevant keywords are then matched with the ads present in our database and gives us back the ads which are most relevant to the blog post.  
+![screencapture-127-0-0-1-8000-2022-12-24-01_00_40](https://user-images.githubusercontent.com/102078863/209398397-7ff0f61d-6b1d-4599-9aca-f5ba0082ea2a.png)
+
+
+
 
 
 
