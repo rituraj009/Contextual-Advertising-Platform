@@ -8,6 +8,7 @@ Django Project 2
 3) First we create a basic Django app that could accept a blog URL, then read all the data on that blog page using the requests library and parse the data using BeautifulSoup.
 4) We then feed the parsed data to the rake library which then finds the most relevant and prominent keywords in that blog article and save them.
 5) These relevant keywords are then matched with the ads present in our database and gives us back the ads which are most relevant to the blog post.
+6) Also using Tailwind to style up the web app.
 
 ## Technologies Used
 1) Python : Programming language.
@@ -33,4 +34,22 @@ Django Project 2
 ```bash
   pip install beautifulsoup4
 ```
-5) 
+5) RAKE --Rapid Automatic Keyword Extraction (Its is an NLP tool), RAKE is implemented in the Python Natural Language Toolkit (NLTK) library. 
+
+```bash
+  pip install rake-nltk
+```
+6) Node.js (In order to set-up and install Tailwind), NPM for tailwind
+--> a) https://nodejs.org/en/  (download the LTS version), after installsation check if it is installed by running command (node --version)
+--> b) tailwind 
+
+```bash
+  npm install tailwindcss@2.2.16
+```
+
+## SCREENSHOTS
+
+1) Homepage  
+
+
+
