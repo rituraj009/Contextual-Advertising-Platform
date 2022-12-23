@@ -77,22 +77,22 @@ Django Project 2
 * We can use the various methods provided by Beautiful Soup to navigate and search the tree, extract data, and modify the document.
 
 Some of the features of Beautiful Soup include:  
---> Support for parsing HTML and XML documents.
---> Support for searching and navigating the document tree using various search criteria.
---> Support for extracting data from the document using tag names, attribute values, and CSS classes.
---> Support for modifying the document tree and writing the modified document back to a file.
+--> Support for parsing HTML and XML documents.  
+--> Support for searching and navigating the document tree using various search criteria.  
+--> Support for extracting data from the document using tag names, attribute values, and CSS classes.  
+--> Support for modifying the document tree and writing the modified document back to a file.  
 
 * Important function of BeautifulSoup library used in the project 
 
 1)  find_all() 
---> The find_all() function is a method of the BeautifulSoup object that allows you to search for all occurrences of a particular HTML or XML element in the document. --> It returns a list of elements that match the search criteria.
+--> The find_all() function is a method of the BeautifulSoup object that allows you to search for all occurrences of a particular HTML or XML element in the document.   --> It returns a list of elements that match the search criteria.  
 
 2) get_text()
---> The get_text() method is a method of the Tag object in Beautiful Soup that allows you to extract the text contents of the tag. 
---> It returns a string containing the text of the tag, including any text contained within child tags.
+--> The get_text() method is a method of the Tag object in Beautiful Soup that allows you to extract the text contents of the tag.   
+--> It returns a string containing the text of the tag, including any text contained within child tags.  
 
 ### RAKE (Rapid Automatic Keyword Extraction)
-* RAKE is a natural language processing (NLP) tool that is used to extract keywords and phrases from a text document. 
-* It is based on the idea of identifying candidate keywords by analyzing the co-occurrence of words in the document and scoring them based on their frequency and distinctiveness.
+* RAKE is a natural language processing (NLP) tool that is used to extract keywords and phrases from a text document.  
+* It is based on the idea of identifying candidate keywords by analyzing the co-occurrence of words in the document and scoring them based on their frequency and distinctiveness.  
 * RAKE is implemented in the Python Natural Language Toolkit (NLTK) library. 
 * To use RAKE in a Python project, you will need to install the NLTK library and import the RAKE module.
