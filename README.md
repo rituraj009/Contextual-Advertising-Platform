@@ -23,12 +23,12 @@ Django Project 2
 ```bash
   pip install django==3.2
 ```
-3) requests 
+3) requests (Python library for making HTTP requests)
 
 ```bash
   pip install requests
 ```
-4) BeautifulSoup (beautifulsoup 4 is the lastest version)
+4) BeautifulSoup (Python library for for extracting data from HTML and XML documents. beautifulsoup 4 is the lastest version)
 
 ```bash
   pip install beautifulsoup4
