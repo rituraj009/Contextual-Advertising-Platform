@@ -85,7 +85,8 @@ Some of the features of Beautiful Soup include:
 * Important function of BeautifulSoup library used in the project 
 
 1)  find_all()   
---> The find_all() function is a method of the BeautifulSoup object that allows you to search for all occurrences of a particular HTML or XML element in the document.   --> It returns a list of elements that match the search criteria.  
+--> The find_all() function is a method of the BeautifulSoup object that allows you to search for all occurrences of a particular HTML or XML element in the document.  
+--> It returns a list of elements that match the search criteria.  
 
 2) get_text()  
 --> The get_text() method is a method of the Tag object in Beautiful Soup that allows you to extract the text contents of the tag.   
